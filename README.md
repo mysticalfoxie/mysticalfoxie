@@ -2,13 +2,10 @@
 Hey there! ✌ I'm Michelle! Professional Developer and Hobby Artist.
 
 ### Work
- 🏢 Current Workspace: `Working for Springer Fachmedien München GmbH`
- 
- ⌛ Leaving company at: `End of June 2023`
- 
- ❓ What then: `Games Academy in Berlin`
- 
- 🅰 Subject: `Digital Art`
+ * Current Workspace: `Working for Springer Fachmedien München GmbH`
+ * Leaving company at: `End of June 2023`
+ * What then: `Games Academy in Berlin`
+ * Subject: `Digital Art`
  
 ### Languages I speak
 * C# *my formal way to speak*
