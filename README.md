@@ -18,7 +18,7 @@ Hey there! ✌ I'm Michelle! Professional Developer and Hobby Artist.
 * `Discord.NET` / `Discord.js`
 * `Forge Modloader`
 
-#### Contact
+## Contact
 Don't hesitate to contact me when you have something on your mind, I wont't bite! 😊
 * Discord: `A mystical wise Foxie#1999` or as [link](https://discord.com/users/511970561828585493)
 * Email: `michellebecker2003@gmail.com`
