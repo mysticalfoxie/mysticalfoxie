@@ -12,10 +12,10 @@
  
 #### Languages I speak
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/mysticalfoxie)
-[![TypeScript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://hub.docker.com/mysticalfoxie)
+[![TypeScript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://github.com/mysticalfoxie)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=oracle)](https://github.com/mysticalfoxie)
-[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://hub.docker.com/mysticalfoxie)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://hub.docker.com/mysticalfoxie)
+[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/mysticalfoxie)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/mysticalfoxie)
 
 #### Technologies & Frameworks
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=for-the-badge&logo=dotnet)](https://github.com/mysticalfoxie)
