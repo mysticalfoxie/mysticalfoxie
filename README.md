@@ -1,7 +1,5 @@
 ## About me
-Hey there ✌
-
-I'm Michelle! Professional Developer and Hobby Artist.
+Hey there! ✌ I'm Michelle! Professional Developer and Hobby Artist.
 
 ### Work
  🏢 Current Workspace: `Working for Springer Fachmedien München GmbH`
