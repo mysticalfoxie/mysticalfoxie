@@ -12,23 +12,23 @@ I'm Michelle! Professional Developer and Hobby Artist.
  
  🅰 Subject: `Digital Art`
  
-### Languages I speak:
+### Languages I speak
 * C# *my formal way to speak*
 * Type-/JavaScript *my motherlanguage*
 * Java *my beloved secondary language*
 * C++ *my love-hate*
 
-### Frameworks that I use primarily: *just the big ones*
+### Frameworks that I use primarily (at least the big ones)
 * `ASP.NET`
 * `Angular`
 * `Discord.NET` / `Discord.js`
 * `Forge Modloader`
 
-## Want to talk to me?
+## Contact
 
 Don't hesitate to contact me when you have something on your mind, I wont't bite! 😊
 
-### Ways to contact me:
+### Ways to contact me
 * Discord: `A mystical wise Foxie#1999` or as [link](https://discord.com/users/511970561828585493)
 * Email: `michellebecker2003@gmail.com`
 * Website: *coming soon*
