@@ -1,6 +1,6 @@
 # Hey there ✌
 
-## A little about me
+## About me
 I'm Michelle! Professional Developer and Hobby Artist.
 
 ### Work
