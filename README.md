@@ -25,7 +25,7 @@
 [![Minecraft Forge](https://img.shields.io/badge/Minecraft%20Forge-black?style=for-the-badge&logo=oracle)](https://github.com/mysticalfoxie)
 
 #### Contact
-Don't hesitate to contact me when you have something on your mind, I wont't bite! 😊<br><br>
+Don't hesitate to contact me when you have something on your mind, I won't bite! 😊<br><br>
 [![Discord](https://img.shields.io/badge/Discord-A%20mystical%20wise%20Foxie%231999-black?style=for-the-badge&logo=discord)](https://discord.com/users/511970561828585493)<br>
 [![Email](https://img.shields.io/badge/Email-michellebecker2003@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:michellebecker2003@gmail.com)<br>
 [![Website](https://img.shields.io/badge/Website-coming%20soon-black?style=for-the-badge&logo=angular)](mailto:michellebecker2003@gmail.com)
