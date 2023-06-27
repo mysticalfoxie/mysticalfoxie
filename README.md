@@ -6,9 +6,8 @@
 </p>
 
 #### Work
- * Current Workspace: `Springer Fachmedien München GmbH`
- * Leaving company at: `End of June 2023`
- * What then: `Games Academy in Berlin - Digital Art`
+ * Currently working as: `Freelancer - Software Development`
+ * Plans for Oct 2023: `Games Academy in Berlin - Digital Art`
  
 #### Languages I speak
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/mysticalfoxie)
