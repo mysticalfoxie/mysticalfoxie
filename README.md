@@ -1,13 +1,13 @@
 <h3 align="center">Hey there! ✌</h1>
 <p align="center">
  I'm Michelle <i>aka Foxie</i>.<br>
- <i>Professional Developer</i> and <i>Hobby Artist</i>
+ <i>Professional Developer</i> and <i>Artist</i>
  <br><br>
 </p>
 
 #### Work
- * Currently working as: `Freelancer - Software Development`
- * Plans for Oct 2023: `Games Academy in Berlin - Digital Art`
+ * Currently working as: `Digital Artist - Trainee @ Games Academy Berlin`
+ * Previous job experience: `Fullstack Software Developer`
  
 #### Languages I speak
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/mysticalfoxie)
