@@ -6,7 +6,7 @@
 </p>
 
 #### Work
- * Currently working as: `Digital Artist - Trainee @ Games Academy Berlin`
+ * Currently working as: `Game Programmer Student @ Games Academy Berlin`
  * Previous job experience: `Fullstack Software Developer`
  
 #### Languages I speak
