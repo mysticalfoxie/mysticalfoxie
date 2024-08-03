@@ -1,7 +1,7 @@
 <h3 align="center">Hey there! ✌</h1>
 <p align="center">
  I'm Michelle <i>aka Foxie</i>.<br>
- <i>Professional Developer</i> and <i>Artist</i>
+ <i>Fullstack Web Developer</i> & <i>Game Programmer</i>!
  <br><br>
 </p>
 
