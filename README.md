@@ -19,14 +19,20 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/mysticalfoxie)
 
 #### Technologies & Frameworks
+[![Unity](https://img.shields.io/badge/UNITY-black?style=for-the-badge&logo=unity)](https://github.com/mysticalfoxie)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=for-the-badge&logo=dotnet)](https://github.com/mysticalfoxie)
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/mysticalfoxie)
 [![Discord.NET](https://img.shields.io/badge/Discord.NET-black?style=for-the-badge&logo=discord)](https://github.com/mysticalfoxie)
 [![Discord.JS](https://img.shields.io/badge/Discord.JS-black?style=for-the-badge&logo=discord)](https://github.com/mysticalfoxie)
 [![Minecraft Forge](https://img.shields.io/badge/Minecraft%20Forge-black?style=for-the-badge&logo=oracle)](https://github.com/mysticalfoxie)
 
+#### Learning in spare time
+[![CryEngine](https://img.shields.io/badge/CryEngine-black?style=for-the-badge&logo=cryengine)](https://github.com/mysticalfoxie)
+[![Unreal](https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=unrealengine)](https://github.com/mysticalfoxie)
+
+
 #### Contact
-Don't hesitate to contact me when you have something on your mind, I won't bite! 😊<br><br>
+Don't hesitate to contact me when you have something on your mind. 😊<br><br>
 [![Discord](https://img.shields.io/badge/Discord-amysticalwisefoxie-black?style=for-the-badge&logo=discord)](https://discord.com/users/511970561828585493)<br>
 [![Email](https://img.shields.io/badge/Email-michellebecker2003@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:michellebecker2003@gmail.com)<br>
 [![Website](https://img.shields.io/badge/Website-coming%20soon-black?style=for-the-badge&logo=angular)](mailto:michellebecker2003@gmail.com)
