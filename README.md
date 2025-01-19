@@ -1,19 +1,21 @@
 <h3 align="center">Hey there! ✌</h1>
 <p align="center">
- I'm Michelle <i>aka Foxie</i>.<br>
- <i>Fullstack Web Developer</i> & <i>Game Programmer</i>!
+ I'm Katarina <i>aka Foxie</i>.<br>
+ <i>Game Programmer</i> & <i>Fullstack Web Developer</i>!
  <br><br>
 </p>
 
 #### Work
- * Currently working as: `Game Programmer Student @ Games Academy Berlin`
+ * Currently working as: `Freelance Game Programmer`
+ * Current tasks: `Consoles Port to Xbox, Nintendo Switch and Microsoft/Xbox Store (PC with Xbox Live)`
+ * Current client: `GrindStone`
  * Previous job experience: `Fullstack Software Developer`
  
 #### Languages I speak
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/mysticalfoxie)
+[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/mysticalfoxie)
 [![TypeScript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://github.com/mysticalfoxie)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=oracle)](https://github.com/mysticalfoxie)
-[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/mysticalfoxie)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/mysticalfoxie)
 
 #### Technologies & Frameworks
