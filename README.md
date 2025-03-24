@@ -1,7 +1,7 @@
 <h3 align="center">Hey there! ✌</h1>
 <p align="center">
- I'm Katarina <i>aka Foxie</i>.<br>
- <i>Game Programmer</i> & <i>Fullstack Web Developer</i>!
+ I'm Kate <i>aka as MysticalFoxie</i>.<br>
+ <i>Freelance Game Programmer</i> & <i>Fullstack Web Developer</i>!
  <br><br>
 </p>
 
@@ -10,6 +10,7 @@
  * Current tasks: `Consoles Port to Xbox, Nintendo Switch and Microsoft/Xbox Store (PC with Xbox Live)`
  * Current client: `GrindStone`
  * Previous job experience: `Fullstack Software Developer`
+ * Degree from Games Academy as: `Game Designer`
  
 #### Languages I speak
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/mysticalfoxie)
