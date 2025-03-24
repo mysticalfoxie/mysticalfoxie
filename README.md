@@ -35,5 +35,5 @@
 #### Contact
 Don't hesitate to contact me when you have something on your mind. 😊<br><br>
 [![Discord](https://img.shields.io/badge/Discord-amysticalwisefoxie-black?style=for-the-badge&logo=discord)](https://discord.com/users/511970561828585493)<br>
-[![Email](https://img.shields.io/badge/Email-katarina.becker@fuchsbyte%2Dmedia.com-black?style=for-the-badge&logo=gmail)](mailto:katarina.becker@fuchsbyte-media.com)<br>
+[![Email](https://img.shields.io/badge/Email-Click%20to%20redirect-black?style=for-the-badge&logo=gmail)](mailto:katarina.becker@fuchsbyte-media.com)<br>
 [![Website](https://img.shields.io/badge/Website-coming%20soon-black?style=for-the-badge&logo=angular)](https://github.com/mysticalfoxie)
